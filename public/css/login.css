@@ -1,0 +1,7 @@
+:root {
+    --text-color-third: rgb(143, 143, 143);
+}
+
+.text {
+    color: var(--text-color-third);
+}
